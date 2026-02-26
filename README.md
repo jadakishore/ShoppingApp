@@ -11,7 +11,6 @@
 - Firebase Auth
 - Retrofit API
 - RecyclerView
-- MVVM Basics
 
 ## 🚀 How to Run
 1. Clone repository
